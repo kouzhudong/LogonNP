@@ -1,0 +1,6 @@
+LIBRARY   LogonNP.dll
+
+EXPORTS
+    NPGetCaps
+    NPLogonNotify
+    NPPasswordChangeNotify
