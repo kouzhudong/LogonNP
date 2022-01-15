@@ -9,6 +9,7 @@
   打开:x64 Native Tools Command Prompt for VS 2019或者x86 Native Tools Command Prompt for VS 2019。
   切换到这个目录。
   直接输入：nmake，然后回车即可编译。
-3.自己弄的可直接用LogonNP-vs2019编译的工程。
+3.LogonNP-vs2019
+  自己弄的可直接用vs2019编译的工程。
 
 19:39 2022/1/15
