@@ -1,5 +1,5 @@
 # LogonNP
-Windows NT Network provider Sample
+Windows NT Network Provider Sample
 
 本来是不想创建这个仓库的。  
 这是一个很简单的，只有一两个文件，总共代码不足两百行的小技巧。  
