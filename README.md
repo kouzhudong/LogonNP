@@ -7,5 +7,5 @@ Windows NT Network provider Sample
 但是，这也是一类功能：大多能被lsass.exe加载的DLL，顺便还能获取登录Windows操作系统的用户的密码。  
 为了整理和分享的目的建立并分享此仓库。  
 
-听说这个功能在Windows 11上还能用。
-在Windows 10上测试还可以，但是加载的进程不是lsass.exe，而是mpnotify.exe。
+听说这个功能在Windows 11上还能用。  
+在Windows 10上测试还可以，但是加载的进程不是lsass.exe，而是mpnotify.exe。  
