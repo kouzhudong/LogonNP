@@ -3,8 +3,11 @@
 
 
 BOOL APIENTRY DllMain(HMODULE hModule, DWORD  ul_reason_for_call, LPVOID lpReserved)
+/*
+输入密码后会走这里。
+*/
 {
-    //DebugBreak();
+    DebugBreak();//双机内核调试用的断点。
 
     switch (ul_reason_for_call) {
     case DLL_PROCESS_ATTACH:
